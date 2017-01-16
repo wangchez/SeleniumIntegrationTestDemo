@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\bin\Debug\WebUITest.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\bin\Debug\WebUITest.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\bin\Debug\WebDriver.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\bin\Debug\WebDriver.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\obj\Debug\WebUITest.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\obj\Debug\WebUITest.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\obj\Debug\WebUITest.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\bin\Debug\WebDriver.Support.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WebUITest\WebUITest\bin\Debug\WebDriver.Support.xml
